@@ -1,0 +1,68 @@
+C:\Users\FERNANDOMEJIA\source\repos\api\api\bin\Debug\net6.0\api.exe
+C:\Users\FERNANDOMEJIA\source\repos\api\api\bin\Debug\net6.0\api.deps.json
+C:\Users\FERNANDOMEJIA\source\repos\api\api\bin\Debug\net6.0\api.runtimeconfig.json
+C:\Users\FERNANDOMEJIA\source\repos\api\api\bin\Debug\net6.0\api.dll
+C:\Users\FERNANDOMEJIA\source\repos\api\api\bin\Debug\net6.0\api.pdb
+C:\Users\FERNANDOMEJIA\source\repos\api\api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.csproj.CopyComplete
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.dll
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\refint\api.dll
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.pdb
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\api.genruntimeconfig.cache
+C:\Users\FERNANDOMEJIA\source\repos\api\api\obj\Debug\net6.0\ref\api.dll
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.exe
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.deps.json
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.runtimeconfig.json
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.pdb
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CopyComplete
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\refint\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.pdb
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Escritorio\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ref\ConsultaAPI.dll
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.dll
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\refint\ConsultaAPI.dll
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.pdb
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.exe
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.deps.json
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.runtimeconfig.json
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.dll
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.pdb
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.AssemblyReference.cache
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfoInputs.cache
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfo.cs
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CoreCompileInputs.cache
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CopyComplete
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.genruntimeconfig.cache
+E:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ref\ConsultaAPI.dll
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.exe
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.deps.json
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.runtimeconfig.json
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.dll
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.pdb
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.AssemblyReference.cache
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfoInputs.cache
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfo.cs
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CoreCompileInputs.cache
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CopyComplete
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.dll
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\refint\ConsultaAPI.dll
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.pdb
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.genruntimeconfig.cache
+F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ref\ConsultaAPI.dll

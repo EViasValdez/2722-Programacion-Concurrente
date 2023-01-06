@@ -1,0 +1,3 @@
+C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.CoreCompileInputs.cache

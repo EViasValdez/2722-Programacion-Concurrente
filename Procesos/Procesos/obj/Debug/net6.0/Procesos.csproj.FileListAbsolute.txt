@@ -1,0 +1,15 @@
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\bin\Debug\net6.0\Procesos.exe
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\bin\Debug\net6.0\Procesos.deps.json
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\bin\Debug\net6.0\Procesos.runtimeconfig.json
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\bin\Debug\net6.0\Procesos.dll
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\bin\Debug\net6.0\Procesos.pdb
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.AssemblyInfoInputs.cache
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.AssemblyInfo.cs
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.dll
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\refint\Procesos.dll
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.pdb
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\Procesos.genruntimeconfig.cache
+C:\Users\defaultuser0\source\repos\Procesos\Procesos\obj\Debug\net6.0\ref\Procesos.dll
