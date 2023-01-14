@@ -1,12 +1,12 @@
 package main
 
 import (
-	"server"
+	"Server"
 )
 
 func main() {
 
-	serve := server.New(":8080")
+	serve := Server.New(":8080")
 
 	err := serve.ListenAndServe()
 
