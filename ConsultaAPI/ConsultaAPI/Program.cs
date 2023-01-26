@@ -20,8 +20,8 @@ namespace ConsultaAPI
             var Usuario = new HttpClient();
             var Url = $"https://pokeapi.co/api/v2/pokemon/{id}";
             Usuario.DefaultRequestHeaders.Clear();
-            var consulta = Usuario.GetAsync(Url).Result;
-            var Data = consulta.Content.ReadAsStringAsync().Result;
+            var Consulta = Usuario.GetAsync(Url).Result;
+            var Data = Consulta.Content.ReadAsStringAsync().Result;
             try
             {
                 // obj dinamico.
@@ -185,10 +185,10 @@ namespace ConsultaAPI
             Cincuenta[98] = "Maximo";
             Cincuenta[99] = "Marjorie";
 
-            for (int indexado = 0; indexado < Cincuenta.Length; indexado++)
+            for (int Indexado = 0; Indexado < Cincuenta.Length; Indexado++)
             {
-                string mostrar = Cincuenta[indexado];
-                Console.WriteLine(mostrar + ", ");
+                string Mostrar = Cincuenta[Indexado];
+                Console.WriteLine(Mostrar + ", ");
             }
         }
     }

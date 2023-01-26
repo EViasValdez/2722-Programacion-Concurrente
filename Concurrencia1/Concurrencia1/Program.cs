@@ -14,22 +14,22 @@ namespace Concurrencia1
             H2.Start();
             Console.ReadLine();
         }
-        public static long uno = 0;
+        public static long Uno = 0;
         public static void Sumar()
         {
             for (int i = 0; i < 1000000; i++)
             {
-                uno++;
+                Uno++;
             }
-            Console.WriteLine("Suma: " + uno);
+            Console.WriteLine("Suma: " + Uno);
         }
         public static void Restar()
         {
             for (int i = 0; i < 1000000; i++)
             {
-                uno--;
+                Uno--;
             }
-            Console.WriteLine("Resta: " + uno);
+            Console.WriteLine("Resta: " + Uno);
         }
     }
 }
