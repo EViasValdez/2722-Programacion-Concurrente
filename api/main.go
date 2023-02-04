@@ -1,7 +1,6 @@
 package main
 
 import (
-	"api/mypackage"
 	"fmt"
 )
 
