@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\defaultuser0\\source\\repos\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj": {}
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2722-Programacion-Concurrente\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\defaultuser0\\source\\repos\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj": {
+    "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2722-Programacion-Concurrente\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\defaultuser0\\source\\repos\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj",
+        "projectUniqueName": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2722-Programacion-Concurrente\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj",
         "projectName": "Concurrencia1",
-        "projectPath": "C:\\Users\\defaultuser0\\source\\repos\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj",
+        "projectPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2722-Programacion-Concurrente\\Concurrencia1\\Concurrencia1\\Concurrencia1.csproj",
         "packagesPath": "C:\\Users\\defaultuser0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\defaultuser0\\source\\repos\\Concurrencia1\\Concurrencia1\\obj\\",
+        "outputPath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2722-Programacion-Concurrente\\Concurrencia1\\Concurrencia1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\defaultuser0\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

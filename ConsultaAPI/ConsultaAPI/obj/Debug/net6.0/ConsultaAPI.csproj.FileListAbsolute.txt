@@ -66,3 +66,20 @@ F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\refint\Cons
 F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.pdb
 F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.genruntimeconfig.cache
 F:\Programacion concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ref\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\ConsultaAPI.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.csproj.CopyComplete
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\refint\ConsultaAPI.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ConsultaAPI.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\ConsultaAPI\ConsultaAPI\obj\Debug\net6.0\ref\ConsultaAPI.dll

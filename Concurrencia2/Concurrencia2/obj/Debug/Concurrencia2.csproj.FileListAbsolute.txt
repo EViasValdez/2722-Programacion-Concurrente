@@ -1,3 +1,6 @@
 C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.AssemblyReference.cache
 C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.SuggestedBindingRedirects.cache
 C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.CoreCompileInputs.cache
