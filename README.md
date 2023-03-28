@@ -3,7 +3,7 @@
 <!--Formato de descripción de repositorios-->
 
 <!----Descripción---->
-Texto por ser puesto
+Texto por ser puesto.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
