@@ -7,7 +7,9 @@ Texto por ser puesto.
 <!----Separador de la descripción ---->
 
 <!----Notas---->
-**Notas: Por ser escritas.**
+**Notas**
+
+**- Por ser escritas.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
