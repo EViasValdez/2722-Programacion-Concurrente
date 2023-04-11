@@ -15,11 +15,6 @@ Texto por ser puesto.
 <!----Directorio con descripcion de los programas---->
 # Descripcion de los programas
 ## ● Unidad 1 ●
-###### ConsultaAPI - 06/11/22
-Texto por ser escrito.
-
-<!----Separador---->
-
 ###### ConsultaAPI, Servidor - 06/11/22
 Texto por ser escrito.
 
