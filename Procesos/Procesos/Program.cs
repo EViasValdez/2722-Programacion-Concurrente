@@ -6,7 +6,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Procesos
 {
-    // Clase para objetos de procesos
+    // Clase para objetos de procesos.
     class Proceso
     {
         public long Prioridad { get; set; }
@@ -18,11 +18,10 @@ namespace Procesos
         {
             List<Proceso> procesos = new List<Proceso>();
             menu(procesos);
-
         }
         public static void menu(List<Proceso> procesos)
         {
-            //Titulo de programa
+            // Titulo de programa.
             Console.WriteLine("*******************************************");
             Console.WriteLine("*         Programa de dos procesos        *");
             Console.WriteLine("*******************************************");
@@ -35,20 +34,20 @@ namespace Procesos
             switch (opcion)
             {
                 case 1:
-                    // Llenar informacion
+                    // Llenar informacion.
                     llenar(procesos, opcion);
-                    // Funcion de ordenar
+                    // Funcion de ordenar.
                     ordenar(procesos);
-                    // Funcion para procesos
+                    // Funcion para procesos.
                     ejecutar(procesos);
                     break;
 
                 case 2:
-                    // Llenar informacion
+                    // Llenar informacion.
                     llenar(procesos, opcion);
-                    // Funcion de ordenar
+                    // Funcion de ordenar.
                     ordenar(procesos);
-                    // Funcion para procesos
+                    // Funcion para procesos.
                     ejecutar(procesos);
                     break;
 
@@ -69,19 +68,19 @@ namespace Procesos
             if (opcion == 1)
             {
                 procesos.Clear();
-                //crear objetos
+                // Crear objetos.
                 for (int i = 1; i < 10; i++)
                 {
                     Console.WriteLine($"Introduzca el nombre del proceso {i}:");
-                    //Leer nombre del proceso 
+                    // Leer nombre del proceso .
                     string nombre = Console.ReadLine();
                     Console.WriteLine($"Introduzca la prioridad del proceso {i}:");
-                    //Leer prioridad del proceso
+                    // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
-                    //Crear objeto con metodo constructor para añadir a lista de obj
+                    // Crear objeto con metodo constructor para añadir a lista de obj.
                     procesos.Add(new Proceso()
                     {
-                        //Asignacion de valores en los atributos del objeto parametros [long] [string]
+                        // Asignacion de valores en los atributos del objeto parametros [long] [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
@@ -92,34 +91,32 @@ namespace Procesos
                 procesos.Clear();
                 Console.WriteLine("Cuantos procesos requiere");
                 int numeroProcesos = int.Parse(Console.ReadLine());
-                //crear objetos
+                // Crear objetos.
                 for (int i = 1; i <= numeroProcesos; i++)
                 {
                     Console.WriteLine($"Introduzca el nombre del proceso {i}:");
-                    //Leer nombre del proceso 
+                    // Leer nombre del proceso.
                     string nombre = Console.ReadLine();
                     Console.WriteLine($"Introduzca la prioridad del proceso {i}:");
-                    //Leer prioridad del proceso
+                    // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
-                    //Crear objeto con metodo constructor para añadir a lista de obj
+                    // Crear objeto con metodo constructor para añadir a lista de obj.
                     procesos.Add(new Proceso()
                     {
-                        //Asignacion de valores en los atributos del objeto parametros [long] [string]
+                        //Asignacion de valores en los atributos del objeto parametros [long] [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
                 }
             }
-
-
         }
         public static void ordenar(List<Proceso> procesos)
         {
-            //Ordenar lista en longitudes
+            // Ordenar lista en longitudes.
             procesos.Sort(delegate (Proceso x, Proceso y) {
                 return x.Prioridad.CompareTo(y.Prioridad);
             });
-            //Funcion para ver items
+            // Funcion para ver items.
             /*foreach(var item in procesos)
             {
                 Console.WriteLine($"Los valores son {item.Nombre} {item.Prioridad}");
