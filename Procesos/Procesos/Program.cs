@@ -6,7 +6,7 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace Procesos
 {
-    // Clase para objetos de procesos.
+    // Clase para objetos de Procesos.
     class Proceso
     {
         public long Prioridad { get; set; }
@@ -16,10 +16,10 @@ namespace Procesos
     {
         static void Main(string[] args)
         {
-            List<Proceso> procesos = new List<Proceso>();
-            menu(procesos);
+            List<Proceso> Procesos = new List<Proceso>();
+            Menu(Procesos);
         }
-        public static void menu(List<Proceso> procesos)
+        public static void Menu(List<Proceso> Procesos)
         {
             // Titulo de programa.
             Console.WriteLine("*******************************************");
@@ -29,26 +29,26 @@ namespace Procesos
             Console.WriteLine("* 2. Con parametros personalizados        *");
             Console.WriteLine("* 3. Salir                                *");
             Console.WriteLine("*******************************************");
-            int opcion = int.Parse(Console.ReadLine());
+            int Opcion = int.Parse(Console.ReadLine());
 
-            switch (opcion)
+            switch (Opcion)
             {
                 case 1:
                     // Llenar informacion.
-                    llenar(procesos, opcion);
-                    // Funcion de ordenar.
-                    ordenar(procesos);
-                    // Funcion para procesos.
-                    ejecutar(procesos);
+                    Llenar(Procesos, Opcion);
+                    // Funcion de Ordenar.
+                    Ordenar(Procesos);
+                    // Funcion para Procesos.
+                    Ejecutar(Procesos);
                     break;
 
                 case 2:
                     // Llenar informacion.
-                    llenar(procesos, opcion);
-                    // Funcion de ordenar.
-                    ordenar(procesos);
-                    // Funcion para procesos.
-                    ejecutar(procesos);
+                    Llenar(Procesos, Opcion);
+                    // Funcion de Ordenar.
+                    Ordenar(Procesos);
+                    // Funcion para Procesos.
+                    Ejecutar(Procesos);
                     break;
 
                 case 3:
@@ -59,15 +59,15 @@ namespace Procesos
                     Console.WriteLine("Opcion no valida porfavor intente de nuevo");
                     Console.ReadLine();
                     Console.Clear();
-                    menu(procesos);
+                    Menu(Procesos);
                     break;
             }
         }
-        public static void llenar(List<Proceso> procesos, int opcion)
+        public static void Llenar(List<Proceso> Procesos, int Opcion)
         {
-            if (opcion == 1)
+            if (Opcion == 1)
             {
-                procesos.Clear();
+                Procesos.Clear();
                 // Crear objetos.
                 for (int i = 1; i < 10; i++)
                 {
@@ -78,7 +78,7 @@ namespace Procesos
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
                     // Crear objeto con metodo constructor para añadir a lista de obj.
-                    procesos.Add(new Proceso()
+                    Procesos.Add(new Proceso()
                     {
                         // Asignacion de valores en los atributos del objeto parametros [long] [string].
                         Prioridad = prioridad,
@@ -88,8 +88,8 @@ namespace Procesos
             }
             else
             {
-                procesos.Clear();
-                Console.WriteLine("Cuantos procesos requiere");
+                Procesos.Clear();
+                Console.WriteLine("Cuantos Procesos requiere");
                 int numeroProcesos = int.Parse(Console.ReadLine());
                 // Crear objetos.
                 for (int i = 1; i <= numeroProcesos; i++)
@@ -101,7 +101,7 @@ namespace Procesos
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
                     // Crear objeto con metodo constructor para añadir a lista de obj.
-                    procesos.Add(new Proceso()
+                    Procesos.Add(new Proceso()
                     {
                         //Asignacion de valores en los atributos del objeto parametros [long] [string].
                         Prioridad = prioridad,
@@ -110,35 +110,36 @@ namespace Procesos
                 }
             }
         }
-        public static void ordenar(List<Proceso> procesos)
+        public static void Ordenar(List<Proceso> Procesos)
         {
             // Ordenar lista en longitudes.
-            procesos.Sort(delegate (Proceso x, Proceso y) {
+            Procesos.Sort(delegate (Proceso x, Proceso y) {
                 return x.Prioridad.CompareTo(y.Prioridad);
             });
             // Funcion para ver items.
-            /*foreach(var item in procesos)
+            /*foreach(var Item in Procesos)
             {
-                Console.WriteLine($"Los valores son {item.Nombre} {item.Prioridad}");
+                Console.WriteLine($"Los valores son {Item.Nombre} {Item.Prioridad}");
             }
             Console.ReadLine();*/
 
         }
-        public static void ejecutar(List<Proceso> procesos)
+        public static void Ejecutar(List<Proceso> Procesos)
         {
-            foreach (var item in procesos)
+            foreach (var Item in Procesos)
             {
-                Console.WriteLine($"Proceso {item.Nombre} con prioridad {item.Prioridad} en ejecucion");
+                Console.WriteLine($"Proceso {Item.Nombre} con prioridad {Item.Prioridad} en ejecucion");
                 Console.WriteLine("Espere porfavor");
                 Thread.Sleep(2000);
-                Console.WriteLine($"Proceso {item.Nombre} ejecutado");
+                Console.WriteLine($"Proceso {Item.Nombre} ejecutado");
                 Thread.Sleep(2000);
             }
             Console.WriteLine("¿Quiere regresar al menu? ESCRIBA 'SI' o 'NO'");
-            string opcion = Console.ReadLine();
-            if (opcion == "SI" || opcion == "si" || opcion == "Si" || opcion == "sI")
+            string Opcion = Console.ReadLine();
+            
+            if (Opcion == "SI" || Opcion == "si" || Opcion == "Si" || Opcion == "sI")
             {
-                menu(procesos);
+                Menu(Procesos);
             }
             else
             {
