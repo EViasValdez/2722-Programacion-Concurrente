@@ -14,12 +14,12 @@ Realizacion de una consulta API por medio de C#.
 
 <!----Separador---->
 
-Texto por ser escrito.
+Creacion de un servidor por medio del lenguaje Go.
 
 <!----Separador---->
 
 ###### Procesos - 07/11/22
-Texto por ser escrito.
+Utilizacion de procesos concurrentes.
 
 <!----Separador---->
 
