@@ -24,7 +24,19 @@ Utilizacion de procesos concurrentes.
 <!----Separador---->
 
 ###### Hilos, Concurrencia1, Concurrencia2, PizzaMagica - 09/11/22
-Texto por ser escrito.
+Programa que implementa y utiliza los threads (hilos) en C#.
+
+<!----Separador---->
+
+Ejemplo simple de concurrencia.
+
+<!----Separador---->
+
+Segundo ejemplo de concurrencia.
+
+<!----Separador---->
+
+Programa incompleto que adapta el problema de la Pizza Magica.
 
 <!----Separador---->
 
