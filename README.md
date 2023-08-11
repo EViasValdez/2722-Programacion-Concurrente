@@ -56,7 +56,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### Monedas - 14/12/22
-Texto por ser escrito.
+Archivo que realiza la conversion de monedas.
 
 <!----Separador---->
 
