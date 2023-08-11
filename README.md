@@ -46,7 +46,7 @@ Texto por ser escrito.
 <!----Separador---->
 
 ###### API - 30/11/22
-Texto por ser escrito.
+Una aplicacion que utiliza una API para recopilar datos.
 
 <!----Separador---->
 
