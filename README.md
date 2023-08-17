@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Por ser escritas.**
+**- Las fechas de algunos documentos no estan correctas debido a un problema que paso con mi USB.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
