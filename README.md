@@ -41,7 +41,7 @@ Programa incompleto que adapta el problema de la Pizza Magica.
 <!----Separador---->
 
 ###### Server - 28/11/22
-Texto por ser escrito.
+Primer intento de creacion y funcionamiento de un servidor.
 
 <!----Separador---->
 
@@ -51,7 +51,7 @@ Una aplicacion que utiliza una API para recopilar datos.
 <!----Separador---->
 
 ###### Servidor2 - 02/12/22
-Texto por ser escrito.
+Segundo intento de creacion y funcionamiento de servidor.
 
 <!----Separador---->
 
