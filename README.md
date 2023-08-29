@@ -23,6 +23,7 @@ Utilizacion de procesos concurrentes.
 
 <!----Separador---->
 
+## ● Unidad 2 ●
 ###### Hilos, Concurrencia1, Concurrencia2, PizzaMagica - 09/11/22
 Programa que implementa y utiliza los threads (hilos) en C#.
 
@@ -40,6 +41,7 @@ Programa incompleto que adapta el problema de la Pizza Magica.
 
 <!----Separador---->
 
+## ● Unidad 3 ●
 ###### Server - 28/11/22
 Primer intento de creacion y funcionamiento de un servidor.
 
