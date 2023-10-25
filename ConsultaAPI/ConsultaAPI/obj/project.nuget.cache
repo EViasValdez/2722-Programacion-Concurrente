@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ib1v0px0l03UqTlviCGMD6OBMUwI2cnpBOz+40PwdSrwEjuvh4Et05fqZPF186SPZjP32yWNDv9OPgJwZfmuRA==",
+  "dgSpecHash": "+5NnC162uePVq0ki5RtAnazWq570x+0ExC5EjXSTE4ILXYcMbQIgjOMPosFAaCuCf/kgJshTWP9ip8qptAzqYg==",
   "success": true,
-  "projectFilePath": "F:\\Programacion concurrente\\ConsultaAPI\\ConsultaAPI\\ConsultaAPI.csproj",
+  "projectFilePath": "D:\\Usuarios\\Eduardo\\Documentos\\GitHub\\2722-Programacion-Concurrente\\ConsultaAPI\\ConsultaAPI\\ConsultaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\defaultuser0\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
