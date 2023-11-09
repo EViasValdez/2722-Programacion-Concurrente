@@ -3,7 +3,7 @@
 <!----Notas---->
 **Notas**
 
-**- Las fechas de algunos documentos no estan correctas debido a un problema que paso con mi USB.**
+**- Las fechas de algunos documentos no estan correctas debido a un problema que paso con la USB que originalmente tenia.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripcion de los programas---->
