@@ -25,9 +25,9 @@ namespace Procesos
             Console.WriteLine("*******************************************");
             Console.WriteLine("*         Programa de dos procesos        *");
             Console.WriteLine("*******************************************");
-            Console.WriteLine("* 1. Con parametros definidos             *");
-            Console.WriteLine("* 2. Con parametros personalizados        *");
-            Console.WriteLine("* 3. Salir                                *");
+            Console.WriteLine("* 1. Con parametros definidos.            *");
+            Console.WriteLine("* 2. Con parametros personalizados.       *");
+            Console.WriteLine("* 3. Salir.                               *");
             Console.WriteLine("*******************************************");
             int Opcion = int.Parse(Console.ReadLine());
 
