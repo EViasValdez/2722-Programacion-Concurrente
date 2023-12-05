@@ -22,7 +22,7 @@ namespace Concurrencia2
     {
         Mutex m = new Mutex();
         public int j = 10;
-        public void H1()    
+    public void H1()    
     {
         m.WaitOne();
         Console.WriteLine(j);
