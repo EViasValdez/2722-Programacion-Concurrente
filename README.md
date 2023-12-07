@@ -25,7 +25,7 @@ Utilizacion de procesos concurrentes.
 
 ## ● Unidad 2 ●
 ###### Hilos, Concurrencia1, Concurrencia2, PizzaMagica - 09/11/22
-Programa que implementa y utiliza los threads (hilos) en C#.
+Programa que implementa y utiliza los threads (hilos) en C# por medio de liberias.
 
 <!----Separador---->
 
