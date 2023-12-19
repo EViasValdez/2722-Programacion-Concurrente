@@ -29,7 +29,7 @@ Programa que implementa y utiliza los threads (hilos) en C# por medio de liberia
 
 <!----Separador---->
 
-Ejemplo simple de concurrencia.
+Ejemplo simple de concurrencia usando este mismo lenguaje.
 
 <!----Separador---->
 
@@ -37,7 +37,7 @@ Segundo ejemplo de concurrencia.
 
 <!----Separador---->
 
-Programa incompleto que adapta el problema de la Pizza Magica.
+Programa incompleto que adapta el problema de la Pizza Magica en Go.
 
 <!----Separador---->
 
