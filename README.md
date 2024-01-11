@@ -19,7 +19,7 @@ Creacion de un servidor por medio del lenguaje Go.
 <!----Separador---->
 
 ###### Procesos - 07/11/22
-Utilizacion de procesos concurrentes.
+Utilizacion de procesos concurrentes en C#.
 
 <!----Separador---->
 
