@@ -48,7 +48,7 @@ Primer intento de creacion y funcionamiento de un servidor.
 <!----Separador---->
 
 ###### API - 30/11/22
-Una aplicacion que utiliza una API para consulta de datos.
+Una aplicacion que utiliza una API para recopilar datos.
 
 <!----Separador---->
 
