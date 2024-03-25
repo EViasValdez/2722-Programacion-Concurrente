@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hilos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8c1f445fae7c0e89d5f55352771db88008e070e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c0949663f5489f9b11d25ff6201354e2ab1529")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hilos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hilos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
