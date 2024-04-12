@@ -18,7 +18,6 @@ func main() {
 
 	go Ingreso()
 	go Egreso()
-
 }
 
 func Ingreso(Dolares float32) {

@@ -46,7 +46,7 @@ func main() {
 		go concurrente(w, numero)
 	})
 
-	//consola
+	// Consola.
 	fmt.Println("El servidor esta en el puerto 8000")
 	fmt.Println("Esta localizado en localhost:8000")
 	http.ListenAndServe(":8000", nil)

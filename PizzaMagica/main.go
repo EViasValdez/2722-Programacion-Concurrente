@@ -25,7 +25,7 @@ func main() {
 				return
 			}
 		}
-	}()
+	}
 
 	for i := 1; i <= 50; i++ {
 		Rebanada <- i
