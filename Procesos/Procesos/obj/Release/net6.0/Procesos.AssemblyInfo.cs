@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Procesos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a301779172f4167ca8c388ab796478f3493421a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34adc5ce63160964226a26aa1d98404ca72ed77b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Procesos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Procesos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
