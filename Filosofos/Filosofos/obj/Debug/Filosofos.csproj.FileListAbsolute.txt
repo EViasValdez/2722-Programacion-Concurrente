@@ -1,0 +1,22 @@
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\bin\Debug\Filosofos.exe.config
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\bin\Debug\Filosofos.exe
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\bin\Debug\Filosofos.pdb
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.AssemblyReference.cache
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.SuggestedBindingRedirects.cache
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.Form1.resources
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.Properties.Resources.resources
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.GenerateResource.cache
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.CoreCompileInputs.cache
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.exe
+C:\Users\defaultuser0\source\repos\Filosofos\Filosofos\obj\Debug\Filosofos.pdb
+F:\Programacion concurrente\Filosofos\Filosofos\bin\Debug\Filosofos.exe.config
+F:\Programacion concurrente\Filosofos\Filosofos\bin\Debug\Filosofos.exe
+F:\Programacion concurrente\Filosofos\Filosofos\bin\Debug\Filosofos.pdb
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.AssemblyReference.cache
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.SuggestedBindingRedirects.cache
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.Form1.resources
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.Properties.Resources.resources
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.GenerateResource.cache
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.CoreCompileInputs.cache
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.exe
+F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.pdb
