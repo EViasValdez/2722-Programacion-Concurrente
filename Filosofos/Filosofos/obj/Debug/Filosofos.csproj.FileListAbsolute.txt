@@ -20,3 +20,13 @@ F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.Gener
 F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.CoreCompileInputs.cache
 F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.exe
 F:\Programacion concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\bin\Debug\Filosofos.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\bin\Debug\Filosofos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\bin\Debug\Filosofos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.AssemblyReference.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.Form1.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.Properties.Resources.resources
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.GenerateResource.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.pdb
