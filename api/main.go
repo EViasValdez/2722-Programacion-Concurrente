@@ -5,10 +5,10 @@ import (
 )
 
 func main() {
-	var student1 my.Student
+	var Student1 my.Student
 
-	student1.Name = "Pedro"
-	student1.Age = 22
-	fmt.Println(student1)
+	Student1.Name = "Pedro"
+	Student1.Age = 22
+	fmt.Println(Student1)
 
 }
