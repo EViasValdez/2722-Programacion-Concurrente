@@ -39,7 +39,7 @@ func main() {
 	})
 	http.HandleFunc("/seleccionar", func(w http.ResponseWriter, r *http.Request) {
 		for i := 0; i < len(numero); i++ {
-			io.WriteString(w, "El numero "+numero[i]+" esta seleccionado")
+			io.WriteString(w, "El numero " + numero[i] + " esta seleccionado")
 			fmt.Fprintf(w, "\n")
 			time.Sleep(8 * time.Second)
 		}
