@@ -9,7 +9,7 @@ import (
 
 func concurrente(w http.ResponseWriter, numero []string) {
 	for i := 0; i < len(numero); i++ {
-		io.WriteString(w, "El numero "+numero[i]+" esta seleccionado")
+		io.WriteString(w, "El numero " + numero[i] + " esta seleccionado")
 		fmt.Fprintf(w, "\n")
 		fmt.Println("El numero " + numero[i] + " esta seleccionado")
 		time.Sleep(time.Millisecond * 2000)
@@ -35,7 +35,7 @@ func main() {
 		numero = append(numero, eleccion)
 		fmt.Println("Numero agregado: " + eleccion)
 		time.Sleep(8 * time.Second)
-		io.WriteString(w, "El dato agregado fue: "+numero[registro])
+		io.WriteString(w, "El dato agregado fue: " + numero[registro])
 	})
 	http.HandleFunc("/seleccionar", func(w http.ResponseWriter, r *http.Request) {
 		for i := 0; i < len(numero); i++ {

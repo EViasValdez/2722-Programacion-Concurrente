@@ -117,7 +117,7 @@ namespace Procesos
                 return x.Prioridad.CompareTo(y.Prioridad);
             });
             // Funcion para ver items.
-            /*foreach(var Item in Procesos)
+            /*foreach (var Item in Procesos)
             {
                 Console.WriteLine($"Los valores son {Item.Nombre} {Item.Prioridad}");
             }
