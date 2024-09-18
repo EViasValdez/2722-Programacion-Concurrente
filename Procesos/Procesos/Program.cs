@@ -129,7 +129,7 @@ namespace Procesos
             foreach (var Item in Procesos)
             {
                 Console.WriteLine($"Proceso {Item.Nombre} con prioridad {Item.Prioridad} en ejecucion");
-                Console.WriteLine("Espere porfavor");
+                Console.WriteLine("Espere por favor");
                 Thread.Sleep(2000);
                 Console.WriteLine($"Proceso {Item.Nombre} ejecutado");
                 Thread.Sleep(2000);
