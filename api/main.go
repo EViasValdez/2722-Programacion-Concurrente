@@ -10,5 +10,4 @@ func main() {
 	Student1.Name = "Pedro"
 	Student1.Age = 22
 	fmt.Println(Student1)
-
 }
