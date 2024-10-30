@@ -56,7 +56,7 @@ namespace Procesos
                     break;
 
                 default:
-                    Console.WriteLine("Opcion no valida porfavor intente de nuevo");
+                    Console.WriteLine("Opcion no valida por favor intente de nuevo");
                     Console.ReadLine();
                     Console.Clear();
                     Menu(Procesos);
@@ -71,10 +71,10 @@ namespace Procesos
                 // Crear objetos.
                 for (int i = 1; i < 10; i++)
                 {
-                    Console.WriteLine($"Introduzca el nombre del proceso {i}:");
+                    Console.WriteLine($"Introduzca el nombre del proceso {i}: ");
                     // Leer nombre del proceso .
                     string nombre = Console.ReadLine();
-                    Console.WriteLine($"Introduzca la prioridad del proceso {i}:");
+                    Console.WriteLine($"Introduzca la prioridad del proceso {i}: ");
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
                     // Crear objeto con metodo constructor para añadir a lista de obj.
@@ -94,10 +94,10 @@ namespace Procesos
                 // Crear objetos.
                 for (int i = 1; i <= numeroProcesos; i++)
                 {
-                    Console.WriteLine($"Introduzca el nombre del proceso {i}:");
+                    Console.WriteLine($"Introduzca el nombre del proceso {i}: ");
                     // Leer nombre del proceso.
                     string nombre = Console.ReadLine();
-                    Console.WriteLine($"Introduzca la prioridad del proceso {i}:");
+                    Console.WriteLine($"Introduzca la prioridad del proceso {i}: ");
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
                     // Crear objeto con metodo constructor para añadir a lista de obj.
@@ -134,7 +134,7 @@ namespace Procesos
                 Console.WriteLine($"Proceso {Item.Nombre} ejecutado");
                 Thread.Sleep(2000);
             }
-            Console.WriteLine("¿Quiere regresar al menu? ESCRIBA 'SI' o 'NO'");
+            Console.WriteLine("¿Quiere regresar al menu? Escriba 'SI' o 'NO'");
             string Opcion = Console.ReadLine();
             
             if (Opcion == "SI" || Opcion == "si" || Opcion == "Si" || Opcion == "sI")

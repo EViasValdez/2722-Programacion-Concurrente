@@ -7,7 +7,7 @@ import (
 	"time"
 )
 
-func concurrente(w http.ResponseWriter, numero []string) {
+func Concurrente(w http.ResponseWriter, numero []string) {
 	for i := 0; i < len(numero); i++ {
 		io.WriteString(w, "El numero " + numero[i] + " esta seleccionado")
 		fmt.Fprintf(w, "\n")
@@ -43,7 +43,7 @@ func main() {
 			fmt.Fprintf(w, "\n")
 			time.Sleep(8 * time.Second)
 		}
-		go concurrente(w, numero)
+		go Concurrente(w, numero)
 	})
 
 	// Consola.
