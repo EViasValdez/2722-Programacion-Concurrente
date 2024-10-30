@@ -8,6 +8,6 @@ type Student struct {
 	id   int
 }
 
-func returnAge() {
+func ReturnAge() {
 	fmt.Println("La edad es")
 }

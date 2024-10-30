@@ -19,7 +19,7 @@ func (A * Individuo) Run() {
 
 func main() {
 	Tareas := threadpool.NewThreadPool(2, 10)
-	task :=&Run{}
+	task := &Run{}
 
 	Nombres = Aleatorio1
 	Edades = Aleatorio2
