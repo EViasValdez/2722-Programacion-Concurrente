@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Concurrencia1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabdf933a116c9bd595dcd9c2a47a848a6216b03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecd82bf0b1f6e4dd2f9a7017277f24f0bf37106d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Concurrencia1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Concurrencia1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
