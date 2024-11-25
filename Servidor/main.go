@@ -31,11 +31,11 @@ func main() {
 		var eleccion string
 
 		fmt.Scanln(&eleccion)
-		registro := len(numero)
+		Registro := len(numero)
 		numero = append(numero, eleccion)
 		fmt.Println("Numero agregado: " + eleccion)
 		time.Sleep(8 * time.Second)
-		io.WriteString(w, "El dato agregado fue: " + numero[registro])
+		io.WriteString(w, "El dato agregado fue: " + numero[Registro])
 	})
 	http.HandleFunc("/seleccionar", func(w http.ResponseWriter, r *http.Request) {
 		for i := 0; i < len(numero); i++ {

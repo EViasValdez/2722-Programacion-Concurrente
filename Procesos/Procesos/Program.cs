@@ -100,7 +100,7 @@ namespace Procesos
                     Console.WriteLine($"Introduzca la prioridad del proceso {i}: ");
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
-                    // Crear objeto con metodo constructor para añadir a lista de obj.
+                    // Crear objeto con metodo constructor para añadir a lista obj.
                     Procesos.Add(new Proceso()
                     {
                         //Asignacion de valores en los atributos del objeto parametros [long] [string].
