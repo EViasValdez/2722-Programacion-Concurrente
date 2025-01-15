@@ -1,0 +1,15 @@
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\bin\Debug\net8.0\Hilos.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\bin\Debug\net8.0\Hilos.deps.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\bin\Debug\net8.0\Hilos.runtimeconfig.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\bin\Debug\net8.0\Hilos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\bin\Debug\net8.0\Hilos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.AssemblyInfoInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.AssemblyInfo.cs
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.sourcelink.json
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\refint\Hilos.dll
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\Hilos.genruntimeconfig.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Hilos\Hilos\obj\Debug\net8.0\ref\Hilos.dll
