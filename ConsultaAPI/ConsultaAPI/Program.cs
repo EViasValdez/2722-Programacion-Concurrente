@@ -22,6 +22,7 @@ namespace ConsultaAPI
             usuario.DefaultRequestHeaders.Clear();
             var consulta = usuario.GetAsync(url).Result;
             var data = consulta.Content.ReadAsStringAsync().Result;
+            
             try
             {
                 // obj dinamico.
