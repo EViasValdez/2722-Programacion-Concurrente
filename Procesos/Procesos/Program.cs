@@ -29,6 +29,7 @@ namespace Procesos
             Console.WriteLine("* 2. Con parametros personalizados.       *");
             Console.WriteLine("* 3. Salir.                               *");
             Console.WriteLine("*******************************************");
+            
             int Opcion = int.Parse(Console.ReadLine());
 
             switch (Opcion)
