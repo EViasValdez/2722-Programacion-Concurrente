@@ -104,7 +104,7 @@ namespace Procesos
                     // Crear objeto con metodo constructor para añadir a lista obj.
                     Procesos.Add(new Proceso()
                     {
-                        //Asignacion de valores en los atributos del objeto parametros [long] [string].
+                        // Asignacion de valores en los atributos del objeto parametros [long] [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
