@@ -20,7 +20,8 @@ func index(w http.ResponseWriter, r *http.Request) {
 
 	db, err := BasedeDatos()
 
-	if err != nil {
+	if err != nil
+	{
 		fmt.Printf("Error obteniendo base de datos: %v", err)
 		return
 	}
@@ -28,7 +29,8 @@ func index(w http.ResponseWriter, r *http.Request) {
 	defer db.Close()
 	err = db.Ping()
 
-	if err != nil {
+	if err != nil
+	{
 		fmt.Printf("Error conectando: %v", err)
 		return
 	}
@@ -36,7 +38,8 @@ func index(w http.ResponseWriter, r *http.Request) {
 	fmt.Printf("La base de datos esta conectada de forma correcta")
 
 	Contactos, err := LeerTabla()
-	if err != nil {
+	if err != nil
+	{
 		fmt.Printf("Error obteniendo contactos: %v", err)
 		return
 	}
@@ -59,7 +62,8 @@ func BasedeDatos() (db *sql.DB, e error) {
 	NombreBasedeDatos := "EjemploUniversidad"
 	db, err := sql.Open("mysql", fmt.Sprintf("%s:%s@%s/%s", usuario, pass, host, NombreBasedeDatos))
 
-	if err != nil {
+	if err != nil
+	{
 		return nil, err
 	}
 
@@ -70,14 +74,16 @@ func LeerTabla() ([]Tabla, error) {
 	Tablas := []Tabla{}
 	db, err := BasedeDatos()
 
-	if err != nil {
+	if err != nil
+	{
 		return nil, err
 	}
 
 	defer db.Close()
 	Filas, err := db.Query("SELECT ID, Nombre(s), Apellidos(s), Genero, Fecha de nacimiento, Matricula FROM grupo")
 
-	if err != nil {
+	if err != nil
+	{
 		return nil, err
 	}
 
@@ -88,7 +94,8 @@ func LeerTabla() ([]Tabla, error) {
 	for Filas.Next() {
 		err = Filas.Scan(&t.ID, &t.Nombre(s), &t.Apellidos(s), &t.Genero, &t.Fecha de nacimiento, &t.Matricula)
 
-		if err != nil {
+		if err != nil
+		{
 			return nil, err
 		}
 
