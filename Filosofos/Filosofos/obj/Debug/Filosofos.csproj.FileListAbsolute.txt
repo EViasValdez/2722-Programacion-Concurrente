@@ -30,3 +30,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Fi
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Filosofos\Filosofos\obj\Debug\Filosofos.exe.config
