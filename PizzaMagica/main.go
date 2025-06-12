@@ -13,10 +13,13 @@ func main() {
 		for {
 			i, more := <-Rebanada
 
-			if more {
+			if more
+			{
 				fmt.Println("Rebanada de pizza agarrada - ", i)
 				time.Sleep(1 * time.Second)
-			} else {
+			}
+			else
+			{
 				fmt.Println("La pizza se ha terminado, espera un poco para que llegue mas.")
 				time.Sleep(4 * time.Second)
 				fmt.Println("Ha llegado mas pizza.")

@@ -8,7 +8,8 @@ func main() {
 	Servidor := ContenidoServidor.New(":8000")
 	err := Servidor.ListenAndServe()
 
-	if err != nil {
+	if err != nil
+	{
 		panic(err)
 	}
 }
