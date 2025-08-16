@@ -14,7 +14,7 @@ Realización de una consulta API por medio de C#.
 
 <!----Separador---->
 
-Creación de un servidor por medio del lenguaje GO.
+Creación de un servidor a traves del lenguaje GO.
 
 <!----Separador---->
 
