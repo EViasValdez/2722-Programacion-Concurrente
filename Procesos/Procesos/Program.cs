@@ -37,7 +37,7 @@ namespace Procesos
                 case 1:
                     // Llenar informacion.
                     Llenar(Procesos, Opcion);
-                    // Funcion de Ordenar.
+                    // Funcion para ordenar.
                     Ordenar(Procesos);
                     // Funcion para Procesos.
                     Ejecutar(Procesos);
@@ -46,7 +46,7 @@ namespace Procesos
                 case 2:
                     // Llenar informacion.
                     Llenar(Procesos, Opcion);
-                    // Funcion de Ordenar.
+                    // Funcion para Ordenar.
                     Ordenar(Procesos);
                     // Funcion para Procesos.
                     Ejecutar(Procesos);
@@ -81,7 +81,7 @@ namespace Procesos
                     // Crear objeto con metodo constructor para añadir a lista de obj.
                     Procesos.Add(new Proceso()
                     {
-                        // Asignacion de valores en los atributos del objeto parametros [long] [string].
+                        // Asignacion de valores en los atributos del objeto usando parametros [long] [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
