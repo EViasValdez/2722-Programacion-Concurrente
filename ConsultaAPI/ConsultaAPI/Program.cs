@@ -16,7 +16,7 @@ namespace ConsultaAPI
     {
         private static void pokemons(int id, int i)
         {
-            // Consultar api rest.
+            // Consultar API rest.
             var usuario = new HttpClient();
             var url = $"https://pokeapi.co/api/v2/pokemon/{id}";
             usuario.DefaultRequestHeaders.Clear();
@@ -39,7 +39,7 @@ namespace ConsultaAPI
         }
         private static void users(int id, int a)
         {
-            // Consultar api rest.
+            // Consultar API rest.
             var nombres = new HttpClient();
             var url = $"http://api-esp32-alexa.herokuapp.com/api/users/{id}";
             nombres.DefaultRequestHeaders.Clear();
@@ -52,7 +52,7 @@ namespace ConsultaAPI
                 dynamic response = JObject.Parse(data);
                 string json = response.ToString();
                 dynamic user = JsonConvert.DeserializeObject<dynamic>(json);
-                // Campos de la api.
+                // Campos de la API.
                 var nombre = user.first_name;
                 var apellido = user.last_name;
                 Console.WriteLine($"User No.{a}: {nombre} {apellido}");
