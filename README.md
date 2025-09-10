@@ -33,7 +33,7 @@ Ejemplo simple de concurrencia usando este mismo lenguaje.
 
 <!----Separador---->
 
-Segundo ejemplo de un programa que utiliza concurrencia.
+Segundo ejemplo de un programa que utiliza el metodo de la concurrencia.
 
 <!----Separador---->
 
