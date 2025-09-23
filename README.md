@@ -1,4 +1,4 @@
-# Programacion concurrente
+# Programación concurrente
 
 <!----Notas---->
 **Notas**
