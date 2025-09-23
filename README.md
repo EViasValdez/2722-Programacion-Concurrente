@@ -63,6 +63,6 @@ Archivo que realiza la conversión de monedas.
 <!----Separador---->
 
 ###### Examen - 16/12/22
-Texto por ser escrito.
+Obtención de dos valores al azar.
 
 <!----Separador del directorio con descripción de los programas---->
