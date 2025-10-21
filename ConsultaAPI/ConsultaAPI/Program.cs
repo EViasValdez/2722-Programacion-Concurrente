@@ -25,7 +25,7 @@ namespace ConsultaAPI
             
             try
             {
-                // obj dinamico.
+                // obj dinámico.
                 dynamic response = JObject.Parse(data);
                 string json = response.ToString();
                 dynamic pokemon = JsonConvert.DeserializeObject<dynamic>(json);
@@ -48,7 +48,7 @@ namespace ConsultaAPI
 
             try
             {
-                // obj dinamico.
+                // obj dinámico.
                 dynamic response = JObject.Parse(data);
                 string json = response.ToString();
                 dynamic user = JsonConvert.DeserializeObject<dynamic>(json);
