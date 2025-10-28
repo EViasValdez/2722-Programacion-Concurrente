@@ -25,8 +25,8 @@ namespace Procesos
             Console.WriteLine("*******************************************");
             Console.WriteLine("*         Programa de dos procesos        *");
             Console.WriteLine("*******************************************");
-            Console.WriteLine("* 1. Con parametros definidos.            *");
-            Console.WriteLine("* 2. Con parametros personalizados.       *");
+            Console.WriteLine("* 1. Con parámetros definidos.            *");
+            Console.WriteLine("* 2. Con parámetros personalizados.       *");
             Console.WriteLine("* 3. Salir.                               *");
             Console.WriteLine("*******************************************");
             Console.WriteLine("");
@@ -36,7 +36,7 @@ namespace Procesos
             switch (Opcion)
             {
                 case 1:
-                    // Llenar informacion.
+                    // Llenar información.
                     Llenar(Procesos, Opcion);
                     // Funcion para ordenar.
                     Ordenar(Procesos);
@@ -45,11 +45,11 @@ namespace Procesos
                     break;
 
                 case 2:
-                    // Llenar informacion.
+                    // Llenar información.
                     Llenar(Procesos, Opcion);
-                    // Funcion para Ordenar.
+                    // Función para Ordenar.
                     Ordenar(Procesos);
-                    // Funcion para Procesos.
+                    // Función para Procesos.
                     Ejecutar(Procesos);
                     break;
 
@@ -58,7 +58,7 @@ namespace Procesos
                     break;
 
                 default:
-                    Console.WriteLine("Opcion no valida por favor intente de nuevo");
+                    Console.WriteLine("Opción no valida por favor intente de nuevo");
                     Console.ReadLine();
                     Console.Clear();
                     Menu(Procesos);
@@ -79,10 +79,10 @@ namespace Procesos
                     Console.WriteLine($"Introduzca la prioridad del proceso {i}: ");
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
-                    // Crear objeto con metodo constructor para añadir a lista de obj.
+                    // Crear objeto con método constructor para añadir a lista de obj.
                     Procesos.Add(new Proceso()
                     {
-                        // Asignacion de valores en los atributos del objeto usando parametros [long] [string].
+                        // Asignación de valores en los atributos del objeto usando parámetros [long] [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
@@ -102,10 +102,10 @@ namespace Procesos
                     Console.WriteLine($"Introduzca la prioridad del proceso {i}: ");
                     // Leer prioridad del proceso.
                     long prioridad = long.Parse(Console.ReadLine());
-                    // Crear objeto con metodo constructor para añadir a lista obj.
+                    // Crear objeto con método constructor para añadir a lista obj.
                     Procesos.Add(new Proceso()
                     {
-                        // Asignacion de valores en los atributos del objeto parametros [long] [string].
+                        // Asignación de valores en los atributos del objeto parámetros [long] [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
@@ -118,7 +118,7 @@ namespace Procesos
             Procesos.Sort(delegate (Proceso x, Proceso y) {
                 return x.Prioridad.CompareTo(y.Prioridad);
             });
-            // Funcion para ver items.
+            // Función para ver items.
             /*foreach (var Item in Procesos)
             {
                 Console.WriteLine($"Los valores son {Item.Nombre} {Item.Prioridad}");
@@ -130,7 +130,7 @@ namespace Procesos
         {
             foreach (var Item in Procesos)
             {
-                Console.WriteLine($"Proceso {Item.Nombre} con prioridad {Item.Prioridad} en ejecucion");
+                Console.WriteLine($"Proceso {Item.Nombre} con prioridad {Item.Prioridad} en ejecución");
                 Console.WriteLine("Espere por favor");
                 Thread.Sleep(2000);
                 Console.WriteLine($"Proceso {Item.Nombre} ejecutado");
