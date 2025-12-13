@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsultaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+243cb754a964c69121b277f9f65cd0e4d38cec89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1802d2ee195af71fe861d1a6ba5382b8b91818a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsultaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsultaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
