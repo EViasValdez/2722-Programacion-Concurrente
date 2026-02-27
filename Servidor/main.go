@@ -27,7 +27,7 @@ func main() {
 		}
 	})
 	http.HandleFunc("/ingresar", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Println("Ingrese numero")
+		fmt.Println("Ingrese el numero")
 		var eleccion string
 
 		fmt.Scanln(&eleccion)
