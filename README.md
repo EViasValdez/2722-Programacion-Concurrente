@@ -6,7 +6,6 @@ Por ser escrita.
 
 <!----Notas---->
 **Notas**
-
 **- Las fechas de algunos documentos no son correctas o exactas debido a un problema que paso con la USB que donde tenia originalmente los archivos.**
 <!----Separador de las notas---->
 
