@@ -7,7 +7,7 @@ namespace Concurrencia2
 {
     internal class Program
     {
-        public static void main(string[] args)
+        public static void Main(string[] args)
         {
             ext x = new ext();
             Thread H1 = new Thread(x.H1);

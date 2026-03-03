@@ -3,3 +3,8 @@ C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurr
 C:\Users\defaultuser0\source\repos\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.CoreCompileInputs.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.AssemblyReference.cache
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.csproj.CoreCompileInputs.cache
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\bin\Debug\Concurrencia2.exe.config
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\bin\Debug\Concurrencia2.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\bin\Debug\Concurrencia2.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.exe
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.pdb
