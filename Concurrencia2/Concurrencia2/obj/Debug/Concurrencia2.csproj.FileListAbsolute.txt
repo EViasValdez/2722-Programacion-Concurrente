@@ -8,3 +8,4 @@ D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\bin\Debug\Concurrencia2.pdb
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.exe
 D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.pdb
+D:\Usuarios\Eduardo\Documentos\GitHub\2722-Programacion-Concurrente\Concurrencia2\Concurrencia2\obj\Debug\Concurrencia2.exe.config
