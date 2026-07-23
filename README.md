@@ -5,8 +5,10 @@ Por ser escrita.
 <!----Separador de la descripción---->
 
 <!----Notas---->
-**Notas**
+**Notas** 
 **- Las fechas de algunos documentos no son correctas o exactas debido a un problema que paso con la USB que donde estaban originalmente los archivos.**
+
+**- Al usar el lenguaje Go se necesitan de herramientas especiales para la utilizacion correcta de los mismos.**
 <!----Separador de las notas---->
 
 <!----Directorio con descripción de los programas---->
