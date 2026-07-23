@@ -9,5 +9,5 @@ type Student struct {
 }
 
 func ReturnAge() {
-	fmt.Println("La edad es")
+	fmt.Println("La edad es: ")
 }
