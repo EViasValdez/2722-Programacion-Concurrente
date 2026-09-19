@@ -38,9 +38,9 @@ namespace Procesos
                 case 1:
                     // Llenar información.
                     Llenar(Procesos, Opcion);
-                    // Funcion para ordenar.
+                    // Función para ordenar.
                     Ordenar(Procesos);
-                    // Funcion para Procesos.
+                    // Función para Procesos.
                     Ejecutar(Procesos);
                     break;
 
