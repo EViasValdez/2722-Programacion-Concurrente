@@ -21,7 +21,7 @@ namespace Procesos
         }
         public static void Menu(List<Proceso> Procesos)
         {
-            // Titulo de programa.
+            // Titulo del programa.
             Console.WriteLine("*******************************************");
             Console.WriteLine("*         Programa de dos procesos        *");
             Console.WriteLine("*******************************************");
@@ -82,7 +82,7 @@ namespace Procesos
                     // Crear objeto con método constructor para añadir a lista de obj.
                     Procesos.Add(new Proceso()
                     {
-                        // Asignación de valores en los atributos del objeto usando parámetros [long] [string].
+                        // Asignación de valores en los atributos del objeto usando parámetros [long] y [string].
                         Prioridad = prioridad,
                         Nombre = nombre,
                     });
