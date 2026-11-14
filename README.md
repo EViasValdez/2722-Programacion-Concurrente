@@ -1,7 +1,7 @@
 # Programación concurrente
 
 <!----Descripción---->
-Por ser escrita.
+Esta materia fue la mas complicada de aquel quatrimestre, aun asi llegue a rescatar algunos de los pocos proyecto que hice.
 <!----Separador de la descripción---->
 
 <!----Notas---->
